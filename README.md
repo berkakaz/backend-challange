@@ -57,8 +57,8 @@ Workintech programını tamamladığında şirketler yaptığın bu projeye de b
 - [x] Model fonksiyonları kullanılmış mı?
 - [x] response status kodları doğru mu, mesajları anlaşılır mı?
 - [x] reponse'da veri doğru şekilde dönüyor mu, gereksiz tekrar eden bilgiler var mı?
-- [ ] Error Midlleware eklenmiş mi?
-- [ ] En az 2 tane middleware fonskiyonu eklenmiş mi?
+- [x] Error Midlleware eklenmiş mi?
+- [x] En az 2 tane middleware fonskiyonu eklenmiş mi?
 - [ ] JWToken doğru kullanılmış mı?
 - [x] Migration, Seed dosyaları doğru oluşturulmuş mu?
 - [x] Secret ve environment ayarları farklı ortamlar için ayrı olacak şekilde ayarlanmış mı?
